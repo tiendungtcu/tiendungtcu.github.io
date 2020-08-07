@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.sharkhung.vn/sitemap.xml
+Host: https://www.sharkhung.vn
