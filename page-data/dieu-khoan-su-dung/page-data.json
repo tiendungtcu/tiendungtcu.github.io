@@ -1,1 +1,5 @@
-{"componentChunkName":"component---src-templates-page-index-js","path":"/dieu-khoan-su-dung","result":{"pageContext":{"page":{"id":"cGFnZTozMTA=","title":"Điều khoản sử dụng","pageId":310,"content":"","uri":"dieu-khoan-su-dung","isFrontPage":false,"featuredImage":null,"pageBuilder":{"layouts":[{"content":"<p><em>Nội dung đang được cập nhật &#8230;</em></p>\n","fieldGroupName":"page_Pagebuilder_Layouts_Content"}]}}}}}
+{
+    "componentChunkName": "component---src-templates-blog-page-js",
+    "path": "/dieu-khoan-su-dung",
+    "result": {"data":{"wpPage":{"title":"Điều khoản sử dụng","slug":"dieu-khoan-su-dung","uri":"/dieu-khoan-su-dung/","id":"cG9zdDozMTA=","pageBuilder":{"fieldGroupName":"pageBuilder","layouts":[{"content":"<p><em>Nội dung đang được cập nhật &#8230;</em></p>\n","fieldGroupName":"page_Pagebuilder_Layouts_Content"}]}}},"pageContext":{"id":"cG9zdDozMTA=","slug":"dieu-khoan-su-dung"}},
+    "staticQueryHashes": ["1631278187","1796219163","2239613279","2983803126","3143705527","4068895812","457911151","848497233"]}

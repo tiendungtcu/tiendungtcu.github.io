@@ -1,1 +1,5 @@
-{"componentChunkName":"component---src-templates-page-index-js","path":"/thanks","result":{"pageContext":{"page":{"id":"cGFnZTo5Nzc=","title":"Cảm ơn","pageId":977,"content":"","uri":"thanks","isFrontPage":false,"featuredImage":null,"pageBuilder":{"layouts":[{"content":null,"fieldGroupName":"page_Pagebuilder_Layouts_LeftImage","image":null}]}}}}}
+{
+    "componentChunkName": "component---src-templates-blog-page-js",
+    "path": "/thanks",
+    "result": {"data":{"wpPage":{"title":"Cảm ơn","slug":"thanks","uri":"/thanks/","id":"cG9zdDo5Nzc=","pageBuilder":{"fieldGroupName":"pageBuilder","layouts":[{"content":null,"fieldGroupName":"page_Pagebuilder_Layouts_LeftImage","image":null}]}}},"pageContext":{"id":"cG9zdDo5Nzc=","slug":"thanks"}},
+    "staticQueryHashes": ["1631278187","1796219163","2239613279","2983803126","3143705527","4068895812","457911151","848497233"]}

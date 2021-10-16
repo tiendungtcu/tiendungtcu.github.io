@@ -1,1 +1,5 @@
-{"componentChunkName":"component---src-templates-category-js","path":"/kien-truc-nha-dep","result":{"data":{"wpgraphql":{"category":{"id":"Y2F0ZWdvcnk6NDU=","name":"Kiến trúc -Nhà đẹp","slug":"kien-truc-nha-dep","posts":{"nodes":[]}}}},"pageContext":{"id":"Y2F0ZWdvcnk6NDU=","categoryId":45,"slug":"kien-truc-nha-dep"}}}
+{
+    "componentChunkName": "component---src-templates-blog-category-js",
+    "path": "/kien-truc-nha-dep",
+    "result": {"data":{"wpCategory":{"id":"dGVybTo0NQ==","name":"Kiến trúc -Nhà đẹp","slug":"kien-truc-nha-dep","posts":{"nodes":[]}}},"pageContext":{"id":"dGVybTo0NQ==","slug":"kien-truc-nha-dep"}},
+    "staticQueryHashes": ["1631278187","1796219163","2239613279","2983803126","3143705527","4068895812","457911151","848497233"]}

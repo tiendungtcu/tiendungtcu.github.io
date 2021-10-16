@@ -1,1 +1,5 @@
-{"componentChunkName":"component---src-templates-category-js","path":"/phong-thuy","result":{"data":{"wpgraphql":{"category":{"id":"Y2F0ZWdvcnk6NDQ=","name":"Phong thủy","slug":"phong-thuy","posts":{"nodes":[]}}}},"pageContext":{"id":"Y2F0ZWdvcnk6NDQ=","categoryId":44,"slug":"phong-thuy"}}}
+{
+    "componentChunkName": "component---src-templates-blog-category-js",
+    "path": "/phong-thuy",
+    "result": {"data":{"wpCategory":{"id":"dGVybTo0NA==","name":"Phong thủy","slug":"phong-thuy","posts":{"nodes":[]}}},"pageContext":{"id":"dGVybTo0NA==","slug":"phong-thuy"}},
+    "staticQueryHashes": ["1631278187","1796219163","2239613279","2983803126","3143705527","4068895812","457911151","848497233"]}

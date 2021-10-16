@@ -1,1 +1,5 @@
-{"componentChunkName":"component---src-templates-category-js","path":"/xay-dung-quy-hoach","result":{"data":{"wpgraphql":{"category":{"id":"Y2F0ZWdvcnk6NDc=","name":"Xây dựng - Quy hoạch","slug":"xay-dung-quy-hoach","posts":{"nodes":[]}}}},"pageContext":{"id":"Y2F0ZWdvcnk6NDc=","categoryId":47,"slug":"xay-dung-quy-hoach"}}}
+{
+    "componentChunkName": "component---src-templates-blog-category-js",
+    "path": "/xay-dung-quy-hoach",
+    "result": {"data":{"wpCategory":{"id":"dGVybTo0Nw==","name":"Xây dựng - Quy hoạch","slug":"xay-dung-quy-hoach","posts":{"nodes":[]}}},"pageContext":{"id":"dGVybTo0Nw==","slug":"xay-dung-quy-hoach"}},
+    "staticQueryHashes": ["1631278187","1796219163","2239613279","2983803126","3143705527","4068895812","457911151","848497233"]}
