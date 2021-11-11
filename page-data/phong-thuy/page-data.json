@@ -2,4 +2,4 @@
     "componentChunkName": "component---src-templates-blog-category-js",
     "path": "/phong-thuy",
     "result": {"data":{"wpCategory":{"id":"dGVybTo0NA==","name":"Phong thủy","slug":"phong-thuy","posts":{"nodes":[]}}},"pageContext":{"id":"dGVybTo0NA==","slug":"phong-thuy"}},
-    "staticQueryHashes": ["1631278187","1796219163","2239613279","2983803126","3143705527","4068895812","457911151","848497233"]}
+    "staticQueryHashes": ["1631278187","1796219163","2229006117","2239613279","2983803126","4068895812","457911151","848497233"]}
